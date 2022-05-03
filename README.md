@@ -5,5 +5,7 @@
 - 😄  Pronouns: ele/dele.
 
 <div>
-  https://github-readme-stats.vercel.app/api?username=xfelipecosta https://github.com/anuraghazra/github-readme-stats
+  <a href="https://github.com/xfelipecosta">
+  https://github-readme-stats.vercel.app/api?username=xfelipecosta
+  https://github.com/anuraghazra/github-readme-stats
 </div>
