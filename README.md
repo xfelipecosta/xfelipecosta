@@ -2,6 +2,7 @@
 
 - 🎓  Hoje curso o 2° período de Engenharia de Software pela Estácio.
 - 💻  Estudando JavaScript.
+- 🔍  Em busca de um estágio.
 - 😄  Pronouns: ele/dele.
 
     <div>
