@@ -1,6 +1,6 @@
 🤲 Olá! Eu sou o Felipe Costa
 
-- 🎓  Hoje curso Engenharia de Software pela Estácio.
+- 🎓  Hoje curso o 2° período de Engenharia de Software pela Estácio.
 - 💻  Estudando JavaScript.
 - 😄  Pronouns: ele/dele.
 
